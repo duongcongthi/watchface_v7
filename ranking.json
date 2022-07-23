@@ -1,0 +1,148 @@
+{
+    "rankings":[
+        {
+            "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Exclusive/face12.jpg",
+            "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Exclusive/face12.watchface",
+            "status":"paid",
+            "installed": "9842",
+            "item_name": "Watches Red",
+            "isClockType": true
+        },
+        {
+            "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Exclusive/face23.jpg",
+            "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Exclusive/face23.watchface",
+            "status":"paid",
+            "installed": "9384",
+            "item_name": "Classic",
+            "isClockType": true
+        },
+        {
+            "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch6.png",
+            "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch6.png",
+            "status":"paid",
+            "installed": "8763",
+            "item_name": "Techology"
+        },
+        {
+            "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch14.png",
+            "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TechWatches/techwatch14.png",
+            "status":"paid",
+            "installed": "8573",
+            "item_name": "Techology Present"
+        },
+        {
+            "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Live/live15.gif",
+            "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Live/live15.gif",
+            "status":"paid",
+            "installed": "8423",
+            "item_name": "Thunder X"
+        },
+        {
+            "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Live/live33.gif",
+            "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Live/live33.gif",
+            "status":"paid",
+            "installed": "7983",
+            "item_name": "Storm Xeist"
+        },
+        {
+            "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/ColorBlock/colorBlock3.png",
+            "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/ColorBlock/colorBlock3.watchface",
+            "status":"paid",
+            "installed": "7782",
+            "item_name": "Color Block",
+            "isClockType": true
+        },
+        {
+            "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/VividColors/VividColors13.png",
+            "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/VividColors/VividColors13.png",
+            "status":"paid",
+            "installed": "7572",
+            "item_name": "Butterfly"
+        },
+        {
+            "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/MerryChristmas/merrychristmas10.png",
+            "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/MerryChristmas/merrychristmas10.watchface",
+            "status":"paid",
+            "installed": "7183",
+            "item_name": "Xmas Box",
+            "isClockType": true
+        },
+        {
+            "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Animal2/Animal2_19.jpg",
+            "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Animal2/Animal2_19.jpg",
+            "status":"paid",
+            "installed": "7021",
+            "item_name": "Chuppy"
+        },
+        {
+            "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Abstract/Abstract14.jpg",
+            "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Abstract/Abstract14.jpg",
+            "status":"paid",
+            "installed": "6953",
+            "item_name": "Abstract"
+        },
+        {
+            "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Car/face57.jpg",
+            "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Car/face57.jpg",
+            "status":"paid",
+            "installed": "6752",
+            "item_name": "Super Car"
+        },
+        {
+            "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Valentines/face12.jpg",
+            "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Valentines/face12.jpg",
+            "status":"paid",
+            "installed": "6723",
+            "item_name": "Heart"
+        },
+        {
+            "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TropicalNeon/tropical6.png",
+            "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/TropicalNeon/tropical6.png",
+            "status":"paid",
+            "installed": "6542",
+            "item_name": "Neon Light"
+        },
+        {
+            "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flower/Flower5.jpg",
+            "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Flower/Flower5.jpg",
+            "status":"paid",
+            "installed": "6325",
+            "item_name": "Kimura"
+        },
+        {
+            "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Personalized/Personalized14.png",
+            "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Personalized/Personalized14.png",
+            "status":"paid",
+            "installed": "6132",
+            "item_name": "Classic"
+        },
+        {
+            "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/MultiCategory/Multi_Category_65.png",
+            "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/MultiCategory/Multi_Category_65.png",
+            "status":"paid",
+            "installed": "6273",
+            "item_name": "Flower Butter"
+        },
+        {
+            "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/MultiCategory/Multi_Category_810.jpg",
+            "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/MultiCategory/Multi_Category_810.jpg",
+            "status":"paid",
+            "installed": "5348",
+            "item_name": "Vacheron"
+        },
+        {
+            "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Bright/face10.jpg",
+            "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Bright/face10.jpg",
+            "status":"paid",
+            "installed": "5120",
+            "item_name": "D-Fish"
+        },
+        {
+            "url_mini":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Bright/face19.jpg",
+            "url_full":"https://raw.githubusercontent.com/aeappgroup/aeimagewatch/main/Bright/face19.jpg",
+            "status":"paid",
+            "installed": "5103",
+            "item_name": "Bright"
+        }
+    ]
+}
