@@ -3,4 +3,5 @@
   "disableOnboarding": false,
   "goMainWatchFaces": false,
   "needPurchase" : false,
+  "countClickToShowAds": 2
 }
