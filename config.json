@@ -2,4 +2,5 @@
   "disableClosePurchase": false,
   "disableOnboarding": false,
   "goMainWatchFaces": false,
+  "needPurchase" : false,
 }
