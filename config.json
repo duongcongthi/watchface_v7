@@ -3,5 +3,6 @@
   "disableOnboarding": false,
   "goMainWatchFaces": false,
   "needPurchase" : false,
-  "disableAdsFromHome": false
+  "disableAdsFromHome": false,
+  "goTabbarMain": "true"
 }
