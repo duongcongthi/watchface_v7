@@ -3,5 +3,5 @@
   "disableOnboarding": false,
   "goMainWatchFaces": false,
   "needPurchase" : false,
-  "disableAdsFromHome": true
+  "disableAdsFromHome": false
 }
