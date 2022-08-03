@@ -6,5 +6,5 @@
   "disableAdsFromHome": false,
   "goTabbarMain": false,
   "countClickToShowAds": 2,
-  "showInappInHome": true
+  "showInappInHome": false
 }
