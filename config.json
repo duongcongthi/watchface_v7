@@ -4,7 +4,7 @@
   "goMainWatchFaces": false,
   "needPurchase" : false,
   "disableAdsFromHome": false,
-  "goTabbarMain": false,
+  "goTabbarMain": true,
   "countClickToShowAds": 2,
   "showInappInHome": false
 }
