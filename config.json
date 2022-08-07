@@ -5,6 +5,6 @@
   "needPurchase" : false,
   "disableAdsFromHome": true,
   "goTabbarMain": true,
-  "countClickToShowAds": 2,
+  "countClickToShowAds": 3,
   "showInappInHome": false
 }
