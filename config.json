@@ -3,8 +3,8 @@
   "disableOnboarding": false,
   "goMainWatchFaces": false,
   "needPurchase" : false,
-  "disableAdsFromHome": false,
-  "goTabbarMain": false,
+  "disableAdsFromHome": true,
+  "goTabbarMain": true,
   "countClickToShowAds": 2,
   "showInappInHome": false
 }
