@@ -2,7 +2,7 @@
   "disableClosePurchase": false,
   "disableOnboarding": false,
   "goMainWatchFaces": false,
-  "needPurchase" : false,
+  "needPurchase" : true,
   "disableAdsFromHome": true,
   "goTabbarMain": true,
   "countClickToShowAds": 3,
