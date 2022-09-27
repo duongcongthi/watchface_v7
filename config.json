@@ -1,10 +1,10 @@
 {
   "disableClosePurchase": false,
-  "disableOnboarding": false,
+  "disableOnboarding": true,
   "goMainWatchFaces": false,
   "needPurchase" : true,
   "disableAdsFromHome": false,
   "goTabbarMain": true,
   "countClickToShowAds": 1,
-  "showInappInHome": false
+  "showInappInHome": true
 }
