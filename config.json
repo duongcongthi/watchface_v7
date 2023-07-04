@@ -1,6 +1,6 @@
 {
   "disableClosePurchase": false,
-  "disableOnboarding": true,
+  "disableOnboarding": false,
   "goMainWatchFaces": false,
   "needPurchase" : true,
   "disableAdsFromHome": false,
